@@ -1,5 +1,5 @@
 clear;
-echo -e "WELCOME TO T3RN AIRDROP BOT !\n
+echo "WELCOME TO T3RN AIRDROP BOT !\n
          Mod By : Mr9868\n
          Choose the network : \n
          1. Arbitrum Sepolia         5. Random Arbitrum\n
