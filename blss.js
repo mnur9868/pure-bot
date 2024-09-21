@@ -143,7 +143,7 @@ const CONTRACT_ADDRESS = T3RN_ABI.at(-1).CA_BLSS;
             const nonce = await wallet.getNonce();
             const transaction = {
               nonce,
-              chainId: chain_id,
+              // chainId: chain_id,
               data: request,
               to: CONTRACT_ADDRESS,
               gasLimit,
